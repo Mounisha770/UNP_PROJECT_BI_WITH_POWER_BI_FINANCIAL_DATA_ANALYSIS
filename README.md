@@ -2,6 +2,6 @@
 
 In collaboration with UNP Education, I completed a Power BI project where I analyzed a company’s financial retail dataset and transformed raw data into actionable business intelligence. The project began with comprehensive data cleaning and preprocessing to ensure data accuracy and consistency. I then calculated key financial indicators such as loss and gross margin, and prepared a structured dataset for advanced analysis. Using DAX measures, I developed essential performance metrics including Total Cost, Total Discount, Total Sales, Total Gross Margin, Total Loss, Total Profit, Total Manufacturing Cost, Total Units Sold, Profit per Unit, and Cost per Unit to evaluate overall business performance. I designed an interactive dashboard titled “Orion Enterprises Financial Performance Analysis Dashboard”, which provides a holistic view of the company’s financial health and highlights areas requiring improvement. The dashboard uses effective visualizations such as charts and maps to present insights on sales, profit, product performance, and geographical distribution. Finally, I identified key business problems, generated actionable insights, and provided strategic recommendations. This project demonstrates my ability to use data analytics and visualization to support data-driven decision-making and improve business outcomes.
 
-PROJECT PBIX FILE: https://drive.google.com/file/d/1xBL3w9FK6NjcqmXk1u1yaz4jJMnlvVEZ/view?usp=sharing
+PROJECT PBIX FILE: https://drive.google.com/file/d/1CR9MWn50f9D_7_eCkgHm2X6ngibF0hIV/view?usp=sharing
 
-PROJRCT PDF FILE: https://drive.google.com/file/d/1FfBtGkH6cdLdAJIfcSQSIV1z4Qis7N-l/view?usp=sharing
+PROJRCT PDF FILE: https://drive.google.com/file/d/1BXXRkKuB2H6t_YvJ70euAcuNljgpIgEE/view?usp=sharing
