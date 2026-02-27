@@ -4,4 +4,4 @@ In collaboration with UNP Education, I completed a Power BI project where I anal
 
 PROJECT PBIX FILE: https://drive.google.com/file/d/1CR9MWn50f9D_7_eCkgHm2X6ngibF0hIV/view?usp=sharing
 
-PROJRCT PDF FILE: https://drive.google.com/file/d/1BXXRkKuB2H6t_YvJ70euAcuNljgpIgEE/view?usp=sharing
+PROJECT PDF FILE: https://drive.google.com/file/d/1BXXRkKuB2H6t_YvJ70euAcuNljgpIgEE/view?usp=sharing
